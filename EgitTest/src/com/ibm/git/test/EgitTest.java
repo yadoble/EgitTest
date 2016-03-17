@@ -10,6 +10,8 @@ public class EgitTest {
 		System.out.println("This is only a test for eGit");
 		
 		System.out.println("one more change to be added to a different branch");
+		
+		System.out.println("Testing git");
 	}
 
 }
